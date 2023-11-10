@@ -1,2 +1,4 @@
 # TPO-Grafos
-Dos implementaciones de recorrido de Grafos ya sea Dirigido, No-Dirigido,Ponderado, etc
+Implementamos el algoritmo DFS y PRIM
+
+
